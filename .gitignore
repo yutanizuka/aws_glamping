@@ -1,1 +1,4 @@
+.terraform/
 99_preparation/.terraform/
+99_preparation/terraform.tfstate
+99_preparation/terraform.tfstate.backup
